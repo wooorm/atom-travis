@@ -1,4 +1,4 @@
-# atom-travis
+# atom-travis [![Build Status](https://img.shields.io/travis/wooorm/atom-travis.svg)](https://travis-ci.org/wooorm/atom-travis)
 
 Install [Atom](https://atom.io) on Travis.
 
