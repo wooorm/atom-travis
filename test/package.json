@@ -9,9 +9,10 @@
   "devDependencies": {
     "atom-tap-test-runner": "*",
     "tape": "^4.6.0",
-    "xo": "^0.16.0"
+    "xo": "^0.18.0"
   },
   "xo": {
-    "space": true
+    "space": true,
+    "esnext": false
   }
 }
