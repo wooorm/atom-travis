@@ -21,4 +21,4 @@ That’s it, now `atom` and `apm` are in your $PATH when running your
 
 ## License
 
-[MIT](LICENSE) © [Titus Wormer](http://wooorm.com)
+[MIT](license) © [Titus Wormer](http://wooorm.com)
