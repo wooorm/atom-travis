@@ -1,10 +1,10 @@
 # atom-travis [![Build Status](https://img.shields.io/travis/wooorm/atom-travis.svg)](https://travis-ci.org/wooorm/atom-travis)
 
-Install [Atom](https://atom.io) on Travis.
+Install [Atom][] on Travis.
 
-## Usage
+## Use
 
-Add the following line to your `.travis.yml`:
+Add the following lines to your `.travis.yml`:
 
 ```diff
  os:
@@ -16,9 +16,15 @@ Add the following line to your `.travis.yml`:
  - npm test
 ```
 
-That’s it, now `atom` and `apm` are in your $PATH when running your
-`script`s (note: the `DISPLAY` line is not needed for macOS).
+That’s it, now `atom` and `apm` are in $PATH when running `script`s (note: the
+`DISPLAY` line is needed for linux).
 
 ## License
 
-[MIT](license) © [Titus Wormer](https://wooorm.com)
+[MIT][] © [Titus Wormer][author]
+
+[atom]: https://atom.io
+
+[mit]: license
+
+[author]: https://wooorm.com
