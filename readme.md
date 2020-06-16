@@ -11,7 +11,7 @@ Add the following lines to your `.travis.yml`:
  - linux
  - osx
  script:
-+- bash <(curl -s https://raw.githubusercontent.com/wooorm/atom-travis/master/install.sh)
++- bash <(curl -s https://raw.githubusercontent.com/wooorm/atom-travis/main/install.sh)
 +- export DISPLAY=":99"
  - npm test
 ```
