@@ -8,8 +8,8 @@
   "atomTestRunner": "atom-tap-test-runner",
   "devDependencies": {
     "atom-tap-test-runner": "*",
-    "tape": "^4.6.0",
-    "xo": "^0.25.0"
+    "tape": "^5.0.0",
+    "xo": "^0.34.0"
   },
   "xo": {
     "space": true,
